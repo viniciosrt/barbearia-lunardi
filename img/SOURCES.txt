@@ -1,0 +1,4 @@
+logo.jpg / logo_white.png: real current logo, App Store icon of the official "Barbearia Lunardi" app (id6738211135), via itunes.apple.com lookup; matches Instagram profile pic. logo_white.png = recolored for dark background.
+ig_profile.jpg: Instagram @barbearialunardi profile picture (og:image).
+fb_profile.jpg: Facebook page 138750753253677 profile picture (older brand art "Barbearia Lunardi").
+hero_stock.jpg: decorative stock, Unsplash License, František Čaník — https://unsplash.com/photos/a-barber-shop-with-a-brick-wall-and-chairs-XG5OAQYxi4g
